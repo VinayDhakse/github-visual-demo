@@ -9,3 +9,4 @@ public class Factorial {
         System.out.println("Factorial of " + num + " is: " + factorial(num));
     }
 }
+// Edited directly from GitHub GUI
